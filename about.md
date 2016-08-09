@@ -4,14 +4,15 @@ title: "Kim jestem?"
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/avek.png" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Witaj, nazywam się Mateusz Mróz i od ponad 8 lat zajmuję się tworzeniem stron internetowych, projektowaniem grafiki, oraz pisaniem aplikacji internetowych. Od paru miesięcy z sukcesem prowadzę własną firmę.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely.
+Stworzyłem ten blog po to by móc dzielić się z każdym z was zdobytą przeze mnie wiedzą. Na tym blogu będę pisał o projektowaniu grafiki na potrzeby internetu oraz o pisaniu wydajnych aplikacji internetowych. Czasem pojawi się też wpis motywacyjny lub wpis, który będzie dotyczył mojego życia osobistego.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Staram się aktywnie pomagać początkującym webmasterom rozwiązując z nimi problemy i przy okazji ucząc ich nowych rzeczy. Chcesz się czegoś dowiedzieć? Napisz do mnie, możesz to zrobić za pośrednictem:
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+- mateusz@mrozidlo.net
+- [Facebook][facebook]
+
+[facebook]: https://www.facebook.com/mrozidlo.net/
