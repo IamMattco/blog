@@ -69,3 +69,7 @@ Pierwsza komenda każe dla Gita wrócić do pnia kolejna każe połączyć pliki
 ### Podsumowują
 
 Dzisiaj nauczyłeś/aś się czym jest git i jak zainicjalizować go w swoim projekcie. Wiesz już również, jak pracować i czym są branche. Mam świadomość, tego że nie poruszyłem tutaj wielu innych ciekawych funkcji Gita, ale o tym już w innych wpisach. Jeśli masz jakieś uwagi to zapraszam Cię do komentowania tego wpisu.
+
+[github]: http://github.com
+[gitlab]: http://gitlab.com
+[bitbucket]: http://bitbucket.org
