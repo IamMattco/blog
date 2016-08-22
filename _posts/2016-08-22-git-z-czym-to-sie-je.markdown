@@ -23,7 +23,7 @@ a w nim plik config.
 
 Załóżmy, że nasz projekt będziemy trzymać na GitHubie. Więc tworzymy w tym serwisie nowy projekt, podajemy nazwę oraz opis. Jako, że nasz projekt jak na razie nie zawiera żadnego pliku to wypadało by stworzyć parę plików, którymi się trochę pobawimy za pomocą gita.
 
-{% hightlight html %}
+{% highlight html %}
   echo "To jest nasz super projekt" >> README.md
   git add README.md
   git commit -m "our first commit"
