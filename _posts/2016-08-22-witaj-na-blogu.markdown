@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Witaj na moim blogu"
-date:   2016-08-05 10:54
+date:   2016-08-22 10:54
 author: Mateusz Mróz
 categories: Przywitanie Blog Technologie
 tags:	przywitanie
