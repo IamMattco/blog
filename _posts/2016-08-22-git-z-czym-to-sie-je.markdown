@@ -12,7 +12,7 @@ Czym jest git? Najprościej jest to rozproszony system kontorli wersji. Według 
 
 Utwórzmy sobie folder, w którym będzie nasz projekt i tam również zainicjalizujemy Git'a.
 
-{% highlight %}
+{% highlight html %}
   mkdir skycms
   cd skycms
   git init
@@ -23,7 +23,7 @@ a w nim plik config.
 
 Załóżmy, że nasz projekt będziemy trzymać na GitHubie. Więc tworzymy w tym serwisie nowy projekt, podajemy nazwę oraz opis. Jako, że nasz projekt jak na razie nie zawiera żadnego pliku to wypadało by stworzyć parę plików, którymi się trochę pobawimy za pomocą gita.
 
-{% hightlight %}
+{% hightlight html %}
   echo "To jest nasz super projekt" >> README.md
   git add README.md
   git commit -m "our first commit"
@@ -37,7 +37,7 @@ Co stanie się jeśli wklepiemy poszczególne linijki kodu do naszej konsoli? Pi
 
 Załóżmy na chwilę, że plik README, który wcześniej utworzyliśmy jest aktualnie trzonem naszego projektu. Chciałbym mieć pewność, że wprowadzane przeze mnie nowe rzeczy w żaden sposób nie będą miały wpływu na trzon naszego projektu. Tak więc wklepujemy w konsoli:
 
-{% highlight %}
+{% highlight html %}
   git branch nowe-rzeczy
   git checkout nowe-rzeczy
 {% endhighlight %}
@@ -46,7 +46,7 @@ Pierwsza linia kodu odpowiedzialna jest za utworzenie nowej gałęzi dołączone
 
 Utwórzmy sobie teraz nowy plik index.html i wpiszmy tam słowo TEST. Następnie zakolejkujmy wszystkie zmiany i dodajmy do nich komentarz.
 
-{% highlight %}
+{% highlight html %}
   git add .
   git commit -m "create index.html file"
   git push lub git push origin nowe-rzeczy
@@ -58,7 +58,7 @@ Pierwsza komenda kolejkuje wszystkie pliki, które zmieniliśmy. Kolejna komentu
 
 Czym jest mergowanie? Najprościej mówiąc to łączenie gałęzi z pniem. Czyli w naszym przypadku, plik index.html utworzony na gałęzi o nazwie "nowe-rzeczy" zostanie przeniesiony do pnia, gdzie jest już nasz plik README.md.
 
-{% highlight %}
+{% highlight html %}
   git checkout master
   git merge nowe-rzeczy
   git push
