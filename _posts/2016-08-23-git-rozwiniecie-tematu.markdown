@@ -5,7 +5,7 @@ date:   2016-08-23 12:00
 author: Mateusz Mróz
 categories: Git, Tutoriale
 tags:	git, tutoriale, jak zacząc
-cover:  "/assets/instacode.png"
+cover:  "/assets/posts/las.jpg"
 ---
 
 W tej części tutoriala chciałbym bardziej opisać pewne scenariusze które mogą pojawić się podczas pracy z gitem i pomóc Ci rozwiązać ewentualne problemu z jego użytkowaniem. Jest wiele aplikacji ułatwiających pracę z Gitem, moim zdaniem najłatwiej pracować z nim właśnie w konsoli/terminalu.
@@ -30,4 +30,4 @@ Po wklepaniu komendy "git status" do konsoli, zostaną wyświetlone nam przez gi
 
 Co stanie się po wpisaniu w konsoli "git diff index.html"? Git wyświetli w konsoli zmiany z pliku, którego podaliśmy ścieżkę po "git diff"
 
-Masz jakieś pytania odnośnie gita? Zadaj je w komentarzu! 
+Masz jakieś pytania odnośnie gita? Zadaj je w komentarzu!
