@@ -3,8 +3,8 @@ layout: post
 title:  "Git, z czym to się je"
 date:   2016-08-22 13:47
 author: Mateusz Mróz
-categories: Technologie, Git, Tutoriale
-tags:	technologie, git, tutoriale, jak zacząc
+categories: Technologie Git Tutoriale
+tags:	technologie git tutoriale
 cover:  "/assets/instacode.png"
 ---
 

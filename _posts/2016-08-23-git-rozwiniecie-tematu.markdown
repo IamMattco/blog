@@ -3,8 +3,8 @@ layout: post
 title:  "Git, rozwinięcie tematu (część I)"
 date:   2016-08-23 12:00
 author: Mateusz Mróz
-categories: Git, Tutoriale
-tags:	git, tutoriale, jak zacząc
+categories: Git Tutoriale
+tags:	git tutoriale
 cover:  "/assets/posts/las.jpg"
 ---
 
